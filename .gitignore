@@ -1,6 +1,30 @@
-.venv/
-__pycache__/
 *.pyc
-.env
-.DS_Store
 *.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+env/
+.env/
+ENV/
+
+# Generated Invoices
+Invoice_*.xlsx
+Invoice_*.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
