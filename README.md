@@ -254,7 +254,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-**Mohd Fairuz Bin Ibrahim** - *Initial work* - [YourGitHub](https://github.com/mobrahi)
+**Mohd Fairuz Bin Ibrahim** - *Initial work* - [mobrahi](https://github.com/mobrahi)
 
 ## 🙏 Acknowledgments
 
